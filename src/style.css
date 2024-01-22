@@ -1,3 +1,11 @@
+@font-face {
+  font-family: 'Pretendard';
+  src: url('./Pretendard-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+
 .hello {
+  font-family: 'Pretendard';
   color: red;
 }
